@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam Anas</h1>
 <h3 align="center">|| MERN-stack developer || Competitive programmer ||</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulanas777&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulanas777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibulanas777" alt="rakibulanas777" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rakibulanas_99" target="blank"><img src="https://img.shields.io/twitter/follow/rakibulanas_99?logo=twitter&style=for-the-badge" alt="rakibulanas_99" /></a> </p>
 
+- 🔭 I’m currently working on [medicare](https://github.com/rakibulanas777/medicare.git)
+
 - 🌱 I’m currently learning **java,c++**
+
+- 👯 I’m looking to collaborate on [ema-clone](https://github.com/rakibulanas777/ema-clone.git)
+
+- 👨‍💻 All of my projects are available at [https://rakibul-anas.netlify.app/](https://rakibul-anas.netlify.app/)
 
 - 💬 Ask me about **I am a quick learner and a dedicated programmer with substantial web and software development expertise. I like trying out new web technologies and learning about them. Javascript, Typescript, HTML5, CSS3, Bootstrap 5, Tailwind, API, React, Node js, Express js, Mongodb, Mongoose and C programming are among my strong suits. I use data structures and algorithms to try to address a variety of issues. I've also worked on user interfaces and user experiences.**
 
 - 📫 How to reach me **rakibulanas777@gmail.com**
+
+- ⚡ Fun fact **I love playing chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
