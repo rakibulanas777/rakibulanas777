@@ -4,23 +4,32 @@
         <td width="65%">
             <h1>Hi 👋, I'm Rakibul Islam Anas</h1>
             <p>
-                🚀 Enthusiastic Web Developer & Programmer 🌐 Crafting seamless digital experiences with passion and
-                precision.
-                Proudly representing the vibrant spirit of Bangladesh! 🇧🇩💻 #CodeCreator
-            </p>
-            <p>
-                💡 I love transforming ideas into reality through code. My journey in the world of programming is an
-                ever-evolving exploration, and I thrive on challenges that push me to learn and grow.
-            </p>
-            <p>
-                🌱 Currently learning and exploring new technologies to stay ahead in the dynamic field of web
-                development.
-                Excited about the potential of AI, blockchain, and their intersection with web technologies.
-            </p>
-            <p>
-                📫 Connect with me! Let's discuss ideas, collaborate on projects, or just chat about the latest tech
-                trends.
-                Open to exciting opportunities and collaborations.
+                I'm a passionate technology enthusiast with a strong foundation in MERN stack development and a keen interest in the world of Machine Learning. With 2 years of experience in web development, I've honed my skills in building dynamic and efficient web applications using the MERN stack.
+
+🔸 MERN Expertise 🔸
+I specialize in MongoDB, Express, React, and Node.js, and have successfully delivered some projects that have made a positive impact in the digital space.
+
+🤖 Machine Learning Enthusiast 🤖
+My curiosity and love for innovation extend to the field of Machine Learning. I'm constantly exploring the realms of data, algorithms, and AI to create solutions that push the boundaries of what technology can achieve.
+
+🚀 Key Skills 🚀
+- MERN Stack Development
+- Full-Stack Web Development
+- Machine Learning
+- Data Analysis
+-Problem solving 
+
+
+🌐 Let's Connect 🌐
+I'm always eager to connect with fellow tech enthusiasts, developers, and anyone passionate about MERN and Machine Learning. Whether it's discussing the latest trends, collaboration opportunities, or just a friendly tech chat, I'm just a message away.
+
+📧 Contact 📧
+Email: rakibulanas777@gmail.com
+GitHub: rakibulanas777
+
+🌍 Keep Learning 🌍
+"Learning never exhausts the mind." – Leonardo da Vinci
+Let's embark on a journey of continuous learning and innovation together!
             </p>
         </td>
         <td width="35%">
@@ -51,11 +60,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranparthib13&label=Profile%20views&color=0e75b6&style=flat" alt="imranparthib13" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imranparthib13&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/rakibulanas777)
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/imranparthib/" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibulanas777/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin" alt="imranparthib" />
   </a>
 </p>
