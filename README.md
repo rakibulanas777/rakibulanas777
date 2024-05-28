@@ -1,4 +1,3 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/ImranParthib13)
 <table>
     <tr>
         <td width="65%">
@@ -57,7 +56,7 @@ Let's embark on a journey of continuous learning and innovation together!
     </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranparthib13&label=Profile%20views&color=0e75b6&style=flat" alt="imranparthib13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranparthib13&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulanas777" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github.com/rakibulanas777)
@@ -65,7 +64,7 @@ Let's embark on a journey of continuous learning and innovation together!
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/rakibulanas777/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin" alt="imranparthib" />
+    <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin" alt="rakibulanas777" />
   </a>
 </p>
 
