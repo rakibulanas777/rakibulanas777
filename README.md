@@ -1,28 +1,37 @@
 <table>
     <tr>
         <td width="65%">
-            <h1>Hi 👋, I'm Rakibul Islam Anas<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
+            <h1>Hi 👋, I'm Rakibul Islam Anas<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Competitive+Programmer;+AI+Enthusiast" alt="Typing SVG" /></a></h1>
             <p>
-                🚀 Enthusiastic Web Developer and programmer 🌐 Crafting seamless digital experiences with passion and
-                precision.
-                Proudly representing the vibrant spirit of Bangladesh! 🇧🇩💻 #CodeCreator
+                🚀 As a Frontend Engineer with a Bachelor of Science in Computer Science and Engineering from Daffodil International University, I have honed my skills in creating dynamic, efficient, and scalable web applications. My professional journey has been marked by a commitment to performance optimization and delivering high-quality solutions.
             </p>
             <p>
-                💡 I love transforming ideas into reality through code. My journey in the world of programming is an
-                ever-evolving exploration, and I thrive on challenges that push me to learn and grow.
+                💡In my current role at DS Legends Pte Ltd, I have contributed to significant projects such as the Brainyegalai platform, which saw a 75% performance improvement under my development. My experience includes developing robust authentication systems, integrating secure payment gateways, and designing AI chatbots to enhance user engagement.
+
             </p>
             <p>
-                🌱 Currently learning and exploring new technologies to stay ahead in the dynamic field of web
-                development.
-                Excited about the potential of AI, blockchain, and their intersection with web technologies.
+                🌱 At Abeauty, I focus on enhancing performance and resolving bugs, resulting in notable improvements in website speed and user satisfaction. My technical expertise spans JavaScript, React.js, PHP, Python, Node.js, and MongoDB, and I am proficient in using tools like Git, Figma, and Stripe.
+            </p>
+            Some of my notable projects include:
+            <p>
+                📫 Infinity: A multi-vendor bidding application developed using the MERN stack, featuring dynamic bidding, robust product management, and secure Stripe transactions.
+                📫 Doc Finder: A doctor appointment application that allows users to book appointments, rate doctors, and ensures secure financial transactions.
+                📫 Food Hut: A Food delivery application with email OTP verification, file upload capabilities, and categorized food items for efficient browsing.
+
             </p>
             <p>
-                📫 Connect with me! Let's discuss ideas, collaborate on projects, or just chat about the latest tech
-                trends.
-                Open to exciting opportunities and collaborations.
+              🌱 My dedication to continuous learning is demonstrated by my active role as a content creator on YouTube, where I have taught over 50,000 individuals how to build full-stack projects using JavaScript. Additionally, I have achieved notable recognition, such as ranking 4th in the "Unlock the Algorithm" coding competition.
+
+🌱Fluent in English, German, and Hindi, I bring a global perspective to my work and thrive in cross-functional team environments.
+
+🌱Looking ahead, I am deeply interested in exploring the fields of Artificial Intelligence and DevOps. I am eager to integrate AI-driven solutions into my projects to enhance functionality and user experience, and to adopt DevOps practices to streamline development processes and improve deployment efficiency.
+
+🌱I am always eager to connect with fellow professionals, explore new opportunities, and collaborate on innovative projects. Let’s connect and see how we can leverage our combined expertise to drive technological advancements and create impactful solution
+
             </p>
         </td>
         <td width="35%">
+
  <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
             <p>🔍Technologies Overview :</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -65,138 +74,42 @@
 </table>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=imranparthiib&label=Profile%20views&color=0e75b6&style=flat"
-        alt="imranparthiib" /> </p>
+        src="https://komarev.com/ghpvc/?username=rakibulanas777&label=Profile%20views&color=0e75b6&style=flat"
+        alt="rakibulanas777" /> </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imranparthiib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rakibulanas777&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/imranparthib/" target="_blank">
+    <a href="https://www.linkedin.com/in/rakibulanas777/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin"
             alt="imranparthib" />
     </a>
 </p>
 
-- 🔭 I’m currently working on [Infit Shopping](https://github.com/ImranParthib13/InFit-E-Commerce)
+- 🔭 I’m currently working on [Infit Shopping](https://github.com/rakibulanas777/fooder-next)
 
-- 🌱 I’m currently learning **ReactJS,Node.js,MongoDB,Next.js,Vue.js**
+- 🌱 I’m currently learning **Docker,Aws,DSA**
 
-- 👯 I’m looking to collaborate on [Task Management App](https://github.com/ImranParthib13/Task-Management-App)
-
-- 🤝 I’m looking for help with [DevInsights](https://github.com/ImranParthib13/DevInsights)
-
-- 👨‍💻 All of my projects are available at [https://imranparthib.w3spaces.com](https://imranparthib.w3spaces.com)
-
-- 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
 - 💬 Ask me about **react,javascript,development,programming(Javascript,Java,C++,python), frontend**
 
-- 📫 How to reach me **imranparthib13@gmail.com,https://www.linkedin.com/in/imranparthib/**
+- 📫 How to reach me **rakibulanas777@gmail.com,https://www.linkedin.com/in/rakibulanas777/**
 
-- 📄 Know about my experiences
-  [https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY](https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY)
 
-- ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
-  rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
-
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://medium.com/@imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-9d21368943c2?source=rss-894672976d69------2)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
-- [Navigating the Evolving World of Software Development: Key Insights and Trends for Success](https://imranparthib.hashnode.dev/modern-software-development-insights-trends)
-<!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
 
-- [Unlock Success: Consistency is the Key #consistency #programming #learning](https://www.youtube.com/watch?v=fJvcbUjCCE4)
-- [Changing the theme in VS Code: An easy and effective way. #vscode #theme #vscodeextensions #tips](https://www.youtube.com/watch?v=LPe132FExSQ)
-- [মৃত্যুর নিয়মকানুন-সালমান হাবিব। আরো কিছু কথাবাার্তা................](https://www.youtube.com/watch?v=1wy4aJquVdk)
-- [Codechef DSA learning #dsa #codechef #programming](https://www.youtube.com/watch?v=wzfxeepCO00)
-- [C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming](https://www.youtube.com/watch?v=Byb0IK0QU_M)
+- [Building a Responsive Hosting Website with Next JS 14, TypeScript, and Tailwind CSS](https://youtu.be/TiOsudZRVT4?si=HUUoh36T9sqOIABx)
+- [Securely Send OTPs to Your Users' Emails Using Node.js | Step-by-Step Tutorial](https://youtu.be/d19kwFEtKq4?si=r0j_L2tDyVLFVldx)
+
 <!-- YOUTUBE:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="@imran-parthib" height="30" width="40" /></a>
-    <a href="https://dev.to/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/imran-parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="imran-parthib" height="30" width="40" /></a>
-    <a href="https://codesandbox.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://kaggle.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/ImranPathib.Dev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://instagram.com/decode_us" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="decode_us" height="30" width="40" /></a>
-    <a href="https://dribbble.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.behance.net/imran parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="imran parthib" height="30" width="40" /></a>
-    <a href="https://hashnode.com/@imranparthib13" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-            alt="@imranparthib13" height="30" width="40" /></a>
-    <a href="https://medium.com/@imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@imranparthib" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/@decode_us_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="@decode_us_" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/imranparthib" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imranparthib" height="30"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/@imranparthib13" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="@imranparthib13" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.topcoder.com/members/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://discord.gg/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="/https://dev.to/feed/imranparthib, https://medium.com/feed@imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
-            alt="https://dev.to/feed/imranparthib, https://medium.com/feed@imranparthib" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -310,36 +223,29 @@
             src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imranparthib"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="imranparthib" /></a><a href="https://ko-fi.com/imranparthib"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imranparthib" /></a><a href="https://www.youtube.com/@decode_us"> <img align="left"
-            src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" height="50" width="210" alt="Decode US" /></a></p><br><br>
-<hr>
 
 # 📊 GitHub Stats:
 
 <table>
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthiib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=rakibulanas777&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                alt="rakibulanas777" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthiib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulanas777&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="rakibulanas777" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthiib&theme=react&hide_border=false"
-                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulanas777&theme=react&hide_border=false"
+                alt="rakibulanas777" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
 </table>
 <be>
-<img src="https://raw.githubusercontent.com/imranparthiib/imranparthiib/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/rakibulanas777/rakibulanas777/output/snake.svg" alt="Snake animation"/>
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
