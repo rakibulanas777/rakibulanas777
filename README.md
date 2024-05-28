@@ -154,7 +154,7 @@ Let's embark on a journey of continuous learning and innovation together!
     </tr>
 </table>
 <be>
-<img src="https://raw.githubusercontent.com/rakibulanas777/rakibulanas777/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
