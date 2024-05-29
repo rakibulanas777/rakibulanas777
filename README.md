@@ -67,18 +67,18 @@ Let's embark on a journey of continuous learning and innovation together!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rakibulanas777/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin"
+        <img src="https://img.shields.io/badge/LinkedIn-rakibulanas777%20✔-0077B5?style=for-the-badge&logo=linkedin"
             alt="imranparthib" />
     </a>
 </p>
 
-- 🔭 I’m currently working on [Infit Shopping](https://github.com/rakibulanas777/fooder-next)
+- 🔭 I’m currently working as A Full Stack Engineer @[Amarlodge](https://amarlodge.com/)
 
 - 🌱 I’m currently learning **Docker,Aws,DSA**
 
-- 💬 Ask me about **react,javascript,development,programming(Javascript,Java,C++,python), frontend**
+- 💬 Ask me about **react,javascript,development,programming(Javascript,Java,C++,python),Next js, Node js, Express js**
 
-- 📫 How to reach me **rakibulanas777@gmail.com,https://www.linkedin.com/in/rakibulanas777/**
+- 📫 How to reach me **rakibulanas777@gmail.com , https://www.linkedin.com/in/rakibulanas777/**
 
 ### Latest Youtube Videos
 
@@ -118,8 +118,6 @@ Let's embark on a journey of continuous learning and innovation together!
                 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
                     alt="Random Dev Quote" />
             </td>
-            <td>
-                <img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
-            </td>
+            
         </tr>
     </table>
