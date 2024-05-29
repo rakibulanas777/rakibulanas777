@@ -112,14 +112,15 @@ Let's embark on a journey of continuous learning and innovation together!
 <be>
 <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
     ✍️Random Dev Quote & Meme:
-    <div>
-       
-           
-           
+    <table>
+        <tr>
+            <td>
                 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
                     alt="Random Dev Quote" />
+            </td>
             
-            
-            
-       
-    </div>
+        </tr>
+    </table>
+<td>
+                <img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
+            </td>
