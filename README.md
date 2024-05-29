@@ -2,8 +2,7 @@
     <tr>
         <td width="65%">
              <h1>Hi 👋, I'm Rakibul Islam Anas<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Competitive+Programmer;+AI+Enthusiast" alt="Typing SVG" /></a></h1>
-             <img src="https://avatars.githubusercontent.com/u/108738106?v=4" alt="CodingNight&Day" width=" " height="250px">
-             <br>
+         
             <p>
                 I'm a passionate technology enthusiast with a strong foundation in MERN stack development and a keen interest in the world of Machine Learning. With 2 years of experience in web development, I've honed my skills in building dynamic and efficient web applications using the MERN stack.
 
@@ -36,6 +35,9 @@ Let's embark on a journey of continuous learning and innovation together!
 </td>
 </tr>
 
+<td width="33%">
+    <img src="https://avatars.githubusercontent.com/u/108738106?v=4" alt="CodingNight&Day" width=" ">
+</td>
 <td width="">
 <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
 <p>🔍Technologies Overview :</p>
