@@ -3,7 +3,7 @@
         <td width="65%">
                   
              <h1>Hi 👋, I'm Rakibul Islam Anas<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Competitive+Programmer;+AI+Enthusiast" alt="Typing SVG" /></a></h1>
-             <br>
+           
    <img src="https://avatars.githubusercontent.com/u/108738106?v=4" alt="CodingNight&Day" width=" " height="200px">
    <br>
             <p>
